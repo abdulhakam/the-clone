@@ -1,0 +1,13 @@
+.section-top {
+    background: rgb(19, 19, 19);
+}
+
+.top-section-search {
+    border-top-left-radius: 50rem;
+    border-bottom-left-radius: 50rem;
+    margin-right: -3rem;
+}
+
+.section-poster-grid {
+    background: rgb(15, 15, 18)
+}

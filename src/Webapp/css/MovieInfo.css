@@ -1,0 +1,16 @@
+.all_body {
+    margin-top: -1em;
+    color: lightgray;
+    background-color: rgb(33, 63, 63)
+}
+
+.tag {
+    display: inline;
+    margin: 0.25em;
+    border-radius: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: fit-content;
+    background-color: #242424;
+    font-weight: 600;
+}
