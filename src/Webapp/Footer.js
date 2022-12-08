@@ -1,6 +1,7 @@
 import { Row } from "react-bootstrap";
 import tmdblogo from "./assets/icons/tmdbr.svg";
 import githublogo from "./assets/icons/github.png";
+import React from "react";
 
 export function Footer() {
   return (

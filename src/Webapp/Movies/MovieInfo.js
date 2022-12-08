@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { useParams } from "react-router-dom";
 import { main_url, key_string } from "../api.js";
+import React from "react";
 
 function GetMovieInfo(url) {
   const [obj, setObj] = useState({

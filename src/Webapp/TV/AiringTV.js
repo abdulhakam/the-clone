@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { Poster } from "./../assets/Poster";
 import listUrl from "./../api";
 import "./../css/Styling.css";
+import React from "react";
 
 function GetTV(url){
 const [obj, setObj] = useState({

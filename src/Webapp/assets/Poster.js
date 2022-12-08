@@ -1,6 +1,7 @@
 import { Container, Button } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 import "./../css/Poster.css"
+import React from "react";
 export function Poster(props) {
 
   const navigate = useNavigate()

@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useState } from "react";
 import listUrl from "./api";
 import { Poster } from "./assets/Poster";

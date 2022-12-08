@@ -4,6 +4,7 @@ import listUrl from "../api";
 import "../css/Styling.css";
 import axios from "axios";
 import PersonPoster from "./PersonPoster"
+import React from "react";
 
 function GetPeople(url){
 const [obj, setObj] = useState({
